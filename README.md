@@ -1,5 +1,8 @@
 # practice
 
+코딩애플 영상보고 vue 기초 공부
+
+
 ## Project setup
 ```
 yarn install
